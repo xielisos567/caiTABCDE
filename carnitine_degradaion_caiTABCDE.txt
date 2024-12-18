@@ -1,0 +1,6 @@
+carnitine_degradaion_caiTABCDE: Hexapep	#caiE
+carnitine_degradaion_caiTABCDE: ECH1_8_CARC	#caiD
+carnitine_degradaion_caiTABCDE: AMP-binding	#caiC
+carnitine_degradaion_caiTABCDE: CoA_transf_3	#caiB
+carnitine_degradaion_caiTABCDE: ACD1_car	#caiA
+carnitine_degradaion_caiTABCDE: BCCT	#caiT
